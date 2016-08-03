@@ -14,7 +14,7 @@ sys.path.append('./lib')
 
 from zabbix_api import ZabbixAPI, ZabbixAPIException
 
-url = 'https://zabbix-qa.service.chinanetcloud.com'
+url = 'XX'
 HostListFile = '/home/zabbix/conf/host_list'
 zapi = ZabbixAPI(server=url)
 
