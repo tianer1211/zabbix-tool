@@ -1,11 +1,5 @@
 #!/usr/bin/env python
-###########################################
-# Zabbix Auto disable/enable trigger script
-# Call Zabbix API
-###########################################
-# ChangeLog:
-# 20160729    TZ initial creation
-###########################################
+
 import sys
 import getpass
 import os
